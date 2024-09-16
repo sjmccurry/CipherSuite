@@ -11,7 +11,7 @@ CipherSuite is a desktop application for file encryption and decryption using va
 
 ## UI
 
-![Application Screenshot](?raw=true)
+![Application Screenshot](https://github.com/sjmccurry/CipherSuite/blob/main/photos/Screenshot%202024-09-15%20214227.png?raw=true)
 
 ## Requirements
 
